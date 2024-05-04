@@ -13,7 +13,7 @@ import os
 
 if __name__ == '__main__':
     #To run a specific model uncomment the model you want to run
-    #run_baseline()
+    run_baseline()
     #run_poly()
     #run_mlp()
     #run_knn()
